@@ -1,6 +1,6 @@
 # Obsidian Headless CMS (Exam Degree Project)
 
-This project is a headless CMS built for a fictional Real Estate Agency called Lillard &amp; Co. This degree project lets the user create an account/sign up and get access to a content management system where they will be able to control their data visible on the Lillard &amp; Co website. The user will be able to add new listings/agents and edit + deleting
+This project is a headless CMS built for a fictional Real Estate Agency called Lillard &amp; Co. This degree project lets the user create an account/sign up and get access to a content management system where they will be able to control their data visible on the Lillard &amp; Co website. The user will be able to add new listings/agents and edit + deleting. ** I have disabled the CRUD operations for this demo! **
 
 
 # Mockups
