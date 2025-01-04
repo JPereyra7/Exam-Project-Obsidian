@@ -5,11 +5,14 @@ This project is a headless CMS built for a fictional Real Estate Agency called L
 
 # Mockups
 
+![Obsidian](https://github.com/user-attachments/assets/98cd38b5-d985-4eb4-851b-ccd9a3964216)
 
 
 # Url & Stack
 
-Url 🔗: https://exjobb-obsidian-frontend.netlify.app
+Obsidian CMS 🔗: https://exjobb-obsidian-frontend.netlify.app
+
+Lillard & Co 🏘️: https://lillardco-realestate.netlify.app/
 
 This is my exam project called Obsidian. I built a headless cms for a fictional Real Estate Agency called "Lillard & Co". The idea behind this cms was to give the owner and employees of Lillard & Co a way to manage their real estate listings, and by using Obsidian they will be able to CRUD their data. This project was later converted into a desktop app using Electron.js.
 
