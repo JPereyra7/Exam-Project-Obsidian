@@ -29,7 +29,7 @@ This is my exam project called Obsidian. I built a headless cms for a fictional 
 
 [![My Skills](https://skillicons.dev/icons?i=netlify)](https://skillicons.dev)
 
-API links:
+REST API links:
 
 Listings: https://obsidian-cms-backend.netlify.app/listings
 
