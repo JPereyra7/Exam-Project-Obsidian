@@ -1,4 +1,4 @@
-# Obsidian Headless CMS (Exam Degree Project)
+# Obsidian Headless CMS 
 
 This project is a headless CMS built for a fictional Real Estate Agency called Lillard &amp; Co. This degree project lets the user create an account/sign up and get access to a content management system where they will be able to control their data visible on the Lillard &amp; Co website. The user will be able to add new listings/agents and edit + deleting. I have disabled the CRUD operations for this demo!
 
@@ -16,7 +16,7 @@ Obsidian CMS 🔗: https://exjobb-obsidian-frontend.netlify.app
 
 Lillard & Co 🏘️: https://lillardco-realestate.netlify.app/
 
-This is my exam project called Obsidian. I built a headless cms for a fictional Real Estate Agency called "Lillard & Co". The idea behind this cms was to give the owner and employees of Lillard & Co a way to manage their real estate listings, and by using Obsidian they will be able to CRUD their data. This project was later converted into a desktop app using Electron.js.
+This is Obsidian, a headless cms I built for a fictional Real Estate Agency called "Lillard & Co". The idea behind this cms was to give the owner and employees of Lillard & Co a way to manage their real estate listings, and by using Obsidian they will be able to CRUD their data. This project was later converted into a desktop app using Electron.js.
 
 
 || Frontend ||
